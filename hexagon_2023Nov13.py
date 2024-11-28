@@ -9,9 +9,3 @@ Created on Wed Mar  8 13:13:29 2023
 #
 import numpy as np
 from PIL import Image, ImageDraw, ImagePath, ImageFont
-
-
-    
-    
-    
-    
